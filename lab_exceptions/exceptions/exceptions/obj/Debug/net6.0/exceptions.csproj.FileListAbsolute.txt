@@ -1,0 +1,42 @@
+D:\Унiвер\2 курс\ООП\lab_exceptions\exceptions\exceptions\bin\Debug\net6.0\exceptions.exe
+D:\Унiвер\2 курс\ООП\lab_exceptions\exceptions\exceptions\bin\Debug\net6.0\exceptions.deps.json
+D:\Унiвер\2 курс\ООП\lab_exceptions\exceptions\exceptions\bin\Debug\net6.0\exceptions.runtimeconfig.json
+D:\Унiвер\2 курс\ООП\lab_exceptions\exceptions\exceptions\bin\Debug\net6.0\exceptions.dll
+D:\Унiвер\2 курс\ООП\lab_exceptions\exceptions\exceptions\bin\Debug\net6.0\exceptions.pdb
+D:\Унiвер\2 курс\ООП\lab_exceptions\exceptions\exceptions\obj\Debug\net6.0\exceptions.GeneratedMSBuildEditorConfig.editorconfig
+D:\Унiвер\2 курс\ООП\lab_exceptions\exceptions\exceptions\obj\Debug\net6.0\exceptions.AssemblyInfoInputs.cache
+D:\Унiвер\2 курс\ООП\lab_exceptions\exceptions\exceptions\obj\Debug\net6.0\exceptions.AssemblyInfo.cs
+D:\Унiвер\2 курс\ООП\lab_exceptions\exceptions\exceptions\obj\Debug\net6.0\exceptions.csproj.CoreCompileInputs.cache
+D:\Унiвер\2 курс\ООП\lab_exceptions\exceptions\exceptions\obj\Debug\net6.0\exceptions.dll
+D:\Унiвер\2 курс\ООП\lab_exceptions\exceptions\exceptions\obj\Debug\net6.0\refint\exceptions.dll
+D:\Унiвер\2 курс\ООП\lab_exceptions\exceptions\exceptions\obj\Debug\net6.0\exceptions.pdb
+D:\Унiвер\2 курс\ООП\lab_exceptions\exceptions\exceptions\obj\Debug\net6.0\exceptions.genruntimeconfig.cache
+D:\Унiвер\2 курс\ООП\lab_exceptions\exceptions\exceptions\obj\Debug\net6.0\ref\exceptions.dll
+C:\Users\Lenovo\Desktop\lab_exceptions\exceptions\exceptions\bin\Debug\net6.0\exceptions.exe
+C:\Users\Lenovo\Desktop\lab_exceptions\exceptions\exceptions\bin\Debug\net6.0\exceptions.deps.json
+C:\Users\Lenovo\Desktop\lab_exceptions\exceptions\exceptions\bin\Debug\net6.0\exceptions.runtimeconfig.json
+C:\Users\Lenovo\Desktop\lab_exceptions\exceptions\exceptions\bin\Debug\net6.0\exceptions.dll
+C:\Users\Lenovo\Desktop\lab_exceptions\exceptions\exceptions\bin\Debug\net6.0\exceptions.pdb
+C:\Users\Lenovo\Desktop\lab_exceptions\exceptions\exceptions\obj\Debug\net6.0\exceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\lab_exceptions\exceptions\exceptions\obj\Debug\net6.0\exceptions.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\lab_exceptions\exceptions\exceptions\obj\Debug\net6.0\exceptions.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\lab_exceptions\exceptions\exceptions\obj\Debug\net6.0\exceptions.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\lab_exceptions\exceptions\exceptions\obj\Debug\net6.0\exceptions.dll
+C:\Users\Lenovo\Desktop\lab_exceptions\exceptions\exceptions\obj\Debug\net6.0\refint\exceptions.dll
+C:\Users\Lenovo\Desktop\lab_exceptions\exceptions\exceptions\obj\Debug\net6.0\exceptions.pdb
+C:\Users\Lenovo\Desktop\lab_exceptions\exceptions\exceptions\obj\Debug\net6.0\exceptions.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\lab_exceptions\exceptions\exceptions\obj\Debug\net6.0\ref\exceptions.dll
+D:\Унiвер\2 курс\ООП\Лабораторна робота №3\lab_exceptions\exceptions\exceptions\bin\Debug\net6.0\exceptions.exe
+D:\Унiвер\2 курс\ООП\Лабораторна робота №3\lab_exceptions\exceptions\exceptions\bin\Debug\net6.0\exceptions.deps.json
+D:\Унiвер\2 курс\ООП\Лабораторна робота №3\lab_exceptions\exceptions\exceptions\bin\Debug\net6.0\exceptions.runtimeconfig.json
+D:\Унiвер\2 курс\ООП\Лабораторна робота №3\lab_exceptions\exceptions\exceptions\bin\Debug\net6.0\exceptions.dll
+D:\Унiвер\2 курс\ООП\Лабораторна робота №3\lab_exceptions\exceptions\exceptions\bin\Debug\net6.0\exceptions.pdb
+D:\Унiвер\2 курс\ООП\Лабораторна робота №3\lab_exceptions\exceptions\exceptions\obj\Debug\net6.0\exceptions.GeneratedMSBuildEditorConfig.editorconfig
+D:\Унiвер\2 курс\ООП\Лабораторна робота №3\lab_exceptions\exceptions\exceptions\obj\Debug\net6.0\exceptions.AssemblyInfoInputs.cache
+D:\Унiвер\2 курс\ООП\Лабораторна робота №3\lab_exceptions\exceptions\exceptions\obj\Debug\net6.0\exceptions.AssemblyInfo.cs
+D:\Унiвер\2 курс\ООП\Лабораторна робота №3\lab_exceptions\exceptions\exceptions\obj\Debug\net6.0\exceptions.csproj.CoreCompileInputs.cache
+D:\Унiвер\2 курс\ООП\Лабораторна робота №3\lab_exceptions\exceptions\exceptions\obj\Debug\net6.0\exceptions.dll
+D:\Унiвер\2 курс\ООП\Лабораторна робота №3\lab_exceptions\exceptions\exceptions\obj\Debug\net6.0\refint\exceptions.dll
+D:\Унiвер\2 курс\ООП\Лабораторна робота №3\lab_exceptions\exceptions\exceptions\obj\Debug\net6.0\exceptions.pdb
+D:\Унiвер\2 курс\ООП\Лабораторна робота №3\lab_exceptions\exceptions\exceptions\obj\Debug\net6.0\exceptions.genruntimeconfig.cache
+D:\Унiвер\2 курс\ООП\Лабораторна робота №3\lab_exceptions\exceptions\exceptions\obj\Debug\net6.0\ref\exceptions.dll
